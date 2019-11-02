@@ -20,3 +20,11 @@
 .App-link {
   color: #09d3ac;
 }
+
+.userCard {
+  width: 80%;
+  margin: 0 auto;
+}
+img {
+  width: 25%;
+}
